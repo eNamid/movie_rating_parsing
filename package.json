@@ -1,0 +1,23 @@
+{
+  "name": "movie_rating_parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eNamid/movie_rating_parsing.git"
+  },
+  "author": "Dima Gavaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eNamid/movie_rating_parsing/issues"
+  },
+  "homepage": "https://github.com/eNamid/movie_rating_parsing#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
